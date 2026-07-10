@@ -44,9 +44,73 @@ Brutalist/editorial-style site — scroll animations, custom cursor, Three.js gl
 
 ### 🧰 Tech Stack
 
+**Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind,threejs,git,vercel,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
 </p>
+
+**Frontend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,bootstrap,materialui" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Zustand-433E38?style=flat" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white" />
+</p>
+
+**Backend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,graphql" />
+  <img src="https://img.shields.io/badge/BullMQ-DC382D?style=flat&logo=redis&logoColor=white" />
+</p>
+
+**Databases & ORMs**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,supabase,prisma" />
+  <img src="https://img.shields.io/badge/TypeORM-E83524?style=flat" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white" />
+</p>
+
+**AI & Machine Learning**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,flask" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat" />
+  <img src="https://img.shields.io/badge/RAG_Pipelines-6E56CF?style=flat" />
+  <img src="https://img.shields.io/badge/Vector_DBs-6E56CF?style=flat" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" />
+</p>
+
+**Cloud & DevOps**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,vercel,digitalocean,githubactions,gitlab" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white" />
+</p>
+
+**Payments**
+<p align="left">
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Easypaisa-00A651?style=flat" />
+</p>
+
+**Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,figma,vscode" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=flat" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=githubcopilot&logoColor=white" />
+</p>
+
+**Mobile**
+<p align="left">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" />
+</p>
+
+**Also comfortable with:** System Design Basics · Clean Architecture · Microservices Basics · Webhook & Third-Party API Integrations · SEO Basics · Agile Workflows · JWT / OAuth / RBAC · Row Level Security · Supabase Auth
 
 ---
 
