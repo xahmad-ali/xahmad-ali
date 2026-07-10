@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ahmad Ali 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Engineer;Next.js+%7C+React+%7C+Node;Building+ChatBridge+%26+Smartplantify;Turning+coffee+into+deployed+apps;&font=Fira%20Code&center=true&width=440&height=45&color=00F7FF&vCenter=true&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Engineer;AI%7C+Browser+Extensions+%7C+Dev+Tools;Turning+coffee+into+deployed+Ideas;&font=Fira%20Code&center=true&width=440&height=45&color=00F7FF&vCenter=true&size=22" alt="Typing SVG" />
 </p>
 
 <p align="center">
