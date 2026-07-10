@@ -34,7 +34,7 @@ Browser extension to transfer full AI conversation context between Claude & Chat
 <td width="50%">
 
 **🖥️ Developer Portfolio**
-Brutalist/editorial-style site — scroll animations, custom cursor, Three.js globe. [View it live →](#)
+Brutalist/editorial-style site — scroll animations, custom cursor, Three.js globe. [View it live →](https://portfolio-puce-six-79.vercel.app/)
 
 </td>
 </tr>
