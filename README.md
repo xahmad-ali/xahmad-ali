@@ -15,7 +15,7 @@
 
 - 🎓 CS graduate from **COMSATS University Lahore**
 - 💼 Full-stack engineer with ~2 years combined industry + freelance experience
-- 🛠️ Daily driver: **Next.js**, deployed on **Vercel**, built in **Cursor**
+- 🛠️ Daily driver:  MERN, Next.js, NestJS, SQL, Managing CI/CD pipelines, deployed on AWS
 - 🌱 Currently exploring: browser extension dev, AI tooling, and short-form content pipelines
 - ⚡ Fun fact: I build tools for my own workflow when the existing ones aren't good enough
 
