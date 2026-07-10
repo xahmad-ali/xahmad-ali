@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=xahmad-ali&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ahmad-ali-982049296"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
@@ -17,7 +17,7 @@
 - 💼 Full-stack engineer with ~2 years combined industry + freelance experience
 - 🛠️ Daily driver: **Next.js**, deployed on **Vercel**, built in **Cursor**
 - 🌱 Currently exploring: browser extension dev, AI tooling, and short-form content pipelines
-- ⚡ Fun fact: I build tools for my own workflow when the existing ones aren't good enough (see ChatBridge below)
+- ⚡ Fun fact: I build tools for my own workflow when the existing ones aren't good enough
 
 ---
 
