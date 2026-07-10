@@ -17,7 +17,6 @@
 - 💼 Full-stack engineer with ~2 years combined industry + freelance experience
 - 🛠️ Daily driver: **Next.js**, deployed on **Vercel**, built in **Cursor**
 - 🌱 Currently exploring: browser extension dev, AI tooling, and short-form content pipelines
-- 🎯 Looking at graduate study abroad (Canada / Australia) — Cybersecurity & AI
 - ⚡ Fun fact: I build tools for my own workflow when the existing ones aren't good enough (see ChatBridge below)
 
 ---
@@ -30,20 +29,6 @@
 
 **🔗 [ChatBridge](https://github.com/xahmad-ali)**
 Browser extension to transfer full AI conversation context between Claude & ChatGPT — no summarization, clean Markdown export, multi-capsule storage. Built after every existing tool got this wrong.
-
-</td>
-<td width="50%">
-
-**🌱 Smartplantify**
-AI-powered plant care app (Final Year Project) — computer vision + care recommendations.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**📦 Cajax Logistics**
-Full-stack logistics platform — real client work, real constraints.
 
 </td>
 <td width="50%">
@@ -68,12 +53,12 @@ Brutalist/editorial-style site — scroll animations, custom cursor, Three.js gl
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-seven-sandy-51.vercel.app/api?username=xahmad-ali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=xahmad-ali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xahmad-ali&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-seven-sandy-51.vercel.app/api/top-langs/?username=xahmad-ali&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xahmad-ali&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
